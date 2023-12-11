@@ -24,6 +24,20 @@ That concludes the introduction to Tic-Tac-Toe. Have fun playing this exciting g
 
 ![image](img/dark-home.png)
 
+
+## About Contract
+
+Contract
+![image](img/contracts-1.png)
+
+Write the start function, which is used to start the game
+![image](img/contracts-start.png)
+
+Then, it's the core move method,Cross chain implementation through sendMessage.
+
+![image](img/contracts-2-1.png)
+![image](img/contracts-2-2.png)
+
 ## Prerequisites
 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
