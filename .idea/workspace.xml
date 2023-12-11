@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d6d726-b6a4-44ae-8790-5db8b7185327" name="更改" comment="feat: init code">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-NEW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abi/IERC20.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abi/IRouterClient.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/TTTDemo.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Board.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Cell.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/End.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/NewGame.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Playing.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/Winner.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/components/navigation/navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/layout/mainLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/about.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/contract.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pages/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/beams.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/images/grid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/About.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/Cell.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/InstructionsComponent.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/Layout.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/board.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/cell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/styles/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hardhat.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/basic-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contracts-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dark-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/white-about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/white-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/xyCoordinates.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/deployTicTacToe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ttt-check-winner.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ttt-get-sessionId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ttt-move.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ttt-start.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/ttt-update-router.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/abi/IERC20.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/abi/IRouterClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/abi/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/contracts/TTTDemo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/contracts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/OwnerIsCreator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/applications/CCIPReceiver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/applications/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/interfaces/IAny2EVMMessageReceiver.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/interfaces/IRouterClient.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/libraries/Client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/contracts/libraries/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/internal/ConfirmedOwner.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/internal/ConfirmedOwnerWithProposal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/internal/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/internal/interfaces/OwnableInterface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/libraries/internal/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/ERC20/IERC20.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/ERC20/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/introspection/IERC165.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/introspection/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/artifacts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/common.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/abi/IERC20__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/abi/IRouterClient__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/abi/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/contracts/TTTDemo__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/contracts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/OwnerIsCreator__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/applications/CCIPReceiver__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/applications/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/interfaces/IAny2EVMMessageReceiver__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/interfaces/IRouterClient__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/libraries/Client__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/contracts/libraries/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/internal/ConfirmedOwnerWithProposal__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/internal/ConfirmedOwner__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/internal/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/internal/interfaces/OwnableInterface__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/libraries/internal/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/ERC20/IERC20__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/ERC20/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/token/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/introspection/IERC165__factory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/cross-not-official/vendor/openzeppelin-solidity/v4.8.0/utils/introspection/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/artifacts/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/factories/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/hardhat.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typechain-types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/spinner.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZDZ0R9pX21Kw5XLRjbgfbbHZ0y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Web3Workspace/hackathon/Chainlink-TicTacToe-Game/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\DevUtils\\JetBrains\\WebStorm 2023.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Web3Workspace\hackathon\Chainlink-TicTacToe-Game\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web3Workspace\hackathon\Chainlink-TicTacToe-Game\img" />
+      <recent name="E:\Web3Workspace\hackathon\Chainlink-TicTacToe-Game\frontend\pages" />
+      <recent name="E:\Web3Workspace\hackathon\Chainlink-TicTacToe-Game\frontend\pages\about" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="33d6d726-b6a4-44ae-8790-5db8b7185327" name="更改" comment="" />
+      <created>1701958388261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701958388261</updated>
+      <workItem from="1701958392847" duration="2088000" />
+      <workItem from="1701960733232" duration="505000" />
+      <workItem from="1701961369925" duration="3872000" />
+      <workItem from="1701996235166" duration="996000" />
+      <workItem from="1701999368465" duration="3249000" />
+      <workItem from="1702169233805" duration="5798000" />
+      <workItem from="1702206940905" duration="6883000" />
+      <workItem from="1702217973330" duration="6851000" />
+      <workItem from="1702254518942" duration="2616000" />
+      <workItem from="1702261505700" duration="391000" />
+      <workItem from="1702261907241" duration="211000" />
+      <workItem from="1702262131917" duration="36000" />
+      <workItem from="1702262175558" duration="602000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: init codes">
+      <option name="closed" value="true" />
+      <created>1701960822524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701960822524</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update: update readme">
+      <option name="closed" value="true" />
+      <created>1701960951331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701960951331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update: update project name">
+      <option name="closed" value="true" />
+      <created>1701961452448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701961452448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add router link demo">
+      <option name="closed" value="true" />
+      <created>1701965224081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701965224081</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: update style">
+      <option name="closed" value="true" />
+      <created>1702174377778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702174377778</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: update style">
+      <option name="closed" value="true" />
+      <created>1702175032763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702175032763</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: update style">
+      <option name="closed" value="true" />
+      <created>1702210396532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702210396532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update theme with white">
+      <option name="closed" value="true" />
+      <created>1702210421018</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702210421018</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add theme mode toggle">
+      <option name="closed" value="true" />
+      <created>1702219069447</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702219069447</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: add theme mode toggle">
+      <option name="closed" value="true" />
+      <created>1702219078590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702219078590</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add site screenshot">
+      <option name="closed" value="true" />
+      <created>1702222098464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702222098464</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: init codes" />
+    <MESSAGE value="update: update readme" />
+    <MESSAGE value="update: update project name" />
+    <MESSAGE value="feat: add router link demo" />
+    <MESSAGE value="feat: update style" />
+    <MESSAGE value="feat: update theme with white" />
+    <MESSAGE value="feat: add theme mode toggle" />
+    <MESSAGE value="feat: add site screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add site screenshot" />
+  </component>
+</project>
